@@ -61,40 +61,40 @@ Technical Experience
 
 Programming Languages
 :   
-    * React.js\
-    * AngularJS / Angular5\
-    * Javascript\
-    * Typescript\
-    * C#\
-    * Node\
-    * JSX\
-    * .NET\
-    * SQL\
-    * CSS\
-    * HTML5\
+* React.js\
+* AngularJS / Angular5\
+* Javascript\
+* Typescript\
+* C#\
+* Node\
+* JSX\
+* .NET\
+* SQL\
+* CSS\
+* HTML5\
 
-Core Competencies
-:
-    * AJAX\
-    * Redux\
-    * REST\
-    * jQuery\
-    * Bootstrap\
-    * Unit/Integration Testing\
-    * User Experience\
-    * Webpack\
-    * Firebase\
-    * Git/GitHub\
+**Core Competencies**
 
-Additional Skills
-:   
-    * Client Relations\
-    * ArcGIS\
-    * Adobe Photoshop\
-    * Microsoft Office Suites\
+* AJAX\
+* Redux\
+* REST\
+* jQuery\
+* Bootstrap\
+* Unit/Integration Testing\
+* User Experience\
+* Webpack\
+* Firebase\
+* Git/GitHub\
 
-Projects
-:
-    * https://github.com/githubuser/ski-resort-finder\
-    * https://github.com/githubuser/GuitarTabs\
-    * https://github.com/githubuser/Zillow-Rebuild\
+**Additional Skills**
+
+* Client Relations\
+* ArcGIS\
+* Adobe Photoshop\
+* Microsoft Office Suites\
+
+**Projects**
+
+* https://github.com/githubuser/ski-resort-finder \
+* https://github.com/githubuser/GuitarTabs \
+* https://github.com/githubuser/Zillow-Rebuild \
