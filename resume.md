@@ -2,9 +2,9 @@ David Tumpowsky
 ============
 
 -------------------     ----------------------------
-14258 146th Pl. SE          tumpowskydavid@gmail.com\
-Renton, WA 98059               github.com/dtumpowsky
-                                        435.640.8690
+14258 146th Pl. SE   |      tumpowskydavid@gmail.com
+Renton, WA 98059     |         github.com/dtumpowsky
+                     |                  435.640.8690
 -------------------     ----------------------------
 
 Education
