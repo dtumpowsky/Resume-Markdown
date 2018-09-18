@@ -34,7 +34,7 @@ Epicodus - Seattle, WA\
 Experience
 ----------
 
-**Off the Record, Inc**
+**Off the Record, Inc** \
 Web Development Intern : August 2018 - Present\
 Seattle, WA
 
@@ -43,7 +43,7 @@ Seattle, WA
     ⋅ Formatted client portal to be mobile friendly
 
 \
-**Beacon Health Options**
+**Beacon Health Options** \
 Research Liaison : June 2016 - March 2018\
 Bellevue, WA
 
@@ -51,7 +51,7 @@ Bellevue, WA
     ⋅ Promoted to Server Manager, organizing therapist documentation on the backend, as well as communicating with service members and colleagues on the frontend, to ensure a fast and frictionless customer experience
 
 \
-**Evo**
+**Evo** \
 Outdoor Technician : Oct. 2015 - April 2016\
 Seattle, WA
 
@@ -59,7 +59,7 @@ Seattle, WA
     ⋅ Serviced approximately 75 skis per day, contributing to the most profitable month in Evo’s history, generating roughly 2M in business
 
 \
-**Backcountry.com**
+**Backcountry.com** \
 Customer Service Specialist : Nov. 2013 - Jan. 2015\
 Seattle, WA
 
