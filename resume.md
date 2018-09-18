@@ -7,7 +7,7 @@ Renton, WA 98059               github.com/dtumpowsky
                                         435.640.8690
 -------------------     ----------------------------
 
-Education
+<span style="color:#a3e8ff">Education</span>
 ---------
 
 2010-2015
@@ -21,7 +21,7 @@ Emphasis in environmental sustainability, land management, and policy
 
     C#/JavaScript/Angular/React
 
-Experience
+<span style="color:#a3e8ff">Experience</span>
 ----------
 
 **Off the Record, Inc**
@@ -56,45 +56,45 @@ Seattle, WA
 * Applied exceptional conversational skills and passion for outdoor gear in order to improve the customer’s outdoor experience
 * Increased outdoor gear knowledge and developed lasting relationships due to a company that values their employees as much as their customers
 
-Technical Experience
+<span style="color:#a3e8ff">Technical Experience</span>
 --------------------
 
 Programming Languages
 :   
-* React.js\
-* AngularJS / Angular5\
-* Javascript\
-* Typescript\
-* C#\
-* Node\
-* JSX\
-* .NET\
-* SQL\
-* CSS\
-* HTML5\
+* React.js
+* AngularJS / Angular5
+* Javascript
+* Typescript
+* C#
+* Node
+* JSX
+* .NET
+* SQL
+* CSS
+* HTML5
 
 **Core Competencies**
 
-* AJAX\
-* Redux\
-* REST\
-* jQuery\
-* Bootstrap\
-* Unit/Integration Testing\
-* User Experience\
-* Webpack\
-* Firebase\
-* Git/GitHub\
+* AJAX
+* Redux
+* REST
+* jQuery
+* Bootstrap
+* Unit/Integration Testing
+* User Experience
+* Webpack
+* Firebase
+* Git/GitHub
 
 **Additional Skills**
 
-* Client Relations\
-* ArcGIS\
-* Adobe Photoshop\
-* Microsoft Office Suites\
+* Client Relations
+* ArcGIS
+* Adobe Photoshop
+* Microsoft Office Suites
 
 **Projects**
 
-* https://github.com/githubuser/ski-resort-finder \
-* https://github.com/githubuser/GuitarTabs \
-* https://github.com/githubuser/Zillow-Rebuild \
+* https://github.com/githubuser/ski-resort-finder
+* https://github.com/githubuser/GuitarTabs
+* https://github.com/githubuser/Zillow-Rebuild
