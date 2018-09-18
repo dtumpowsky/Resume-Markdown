@@ -1,13 +1,16 @@
 David Tumpowsky
 ============
 
-
+    14258 146th Pl. SE        [tumpowskydavid@gmail.com](tumpowskydavid@gmail.com)
+    Renton, WA 98059          [github.com/dtumpowsky](github.com/dtumpowsky)
+    435.640.8690
 
 ------------------- -------------------
-14258 146th Pl. SE    [tumpowskydavid@gmail.com](tumpowskydavid@gmail.com) \
-Renton, WA 98059      [github.com/dtumpowsky](github.com/dtumpowsky) \
-435.640.8690  
-------------------- -------------------    
+Profile
+---------
+
+    An enthusiastic, self driven, and communicative web developer seeking to connect my for passion for the outdoors and creating beautiful, intuitive applications with a company who shares the same values.
+------------------- -------------------
 
 Education
 ---------
