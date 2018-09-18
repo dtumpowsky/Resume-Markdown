@@ -17,6 +17,7 @@ Westminster College - Salt Lake City, UT\
 
     Emphasis in environmental sustainability, land management, and policy
 
+\
 Epicodus - Seattle, WA\
 2018
 
