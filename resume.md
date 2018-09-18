@@ -2,9 +2,9 @@ David Tumpowsky
 ============
 
 -------------------     ----------------------------
-14258 146th Pl. SE          tumpowskydavid@gmail.com
-Renton, WA 98059               github.com/dtumpowsky
-                                        435.640-8690
+14258 146th Pl. SE          tumpowskydavid@gmail.com\\
+Renton, WA 98059               github.com/dtumpowsky\\
+                                        435.640.8690\\
 -------------------     ----------------------------
 
 Education
@@ -14,18 +14,18 @@ Education
 Emphasis in environmental sustainability, land management, and policy
 :   **BA, Environmental Humanities**; Westminster College - Salt Lake City, UT
 
-    *Emphasis in environmental sustainability, land management, and policy*
+    Emphasis in environmental sustainability, land management, and policy
 
 2018
 :   **Full Stack Development Bootcamp**; Epicodus - Seattle, WA
 
-    *C#/JavaScript/Angular/React*
+    C#/JavaScript/Angular/React
 
 Experience
 ----------
 
 **Off the Record, Inc**
-Web Development Intern : August 2018 - Present
+Web Development Intern : August 2018 - Present\\
 Seattle, WA
 
 * Debugged and wrote solutions for problems in legacy code
@@ -34,7 +34,7 @@ Seattle, WA
 
 
 **Beacon Health Options**
-Research Liaison : June 2016 - March 2018
+Research Liaison : June 2016 - March 2018\\
 Bellevue, WA
 
 * Contracted by the US Department of Defense for the ability to provide high quality and empathetic customer service
@@ -42,14 +42,15 @@ Bellevue, WA
 
 
 **Evo**
-Outdoor Technician : Oct. 2015 - April 2016
+Outdoor Technician : Oct. 2015 - April 2016\\
 Seattle, WA
 
 * Thrived in a fast-paced, heavy workload, team oriented environment
 * Serviced approximately 75 skis per day, contributing to the most profitable month in Evo’s history, generating roughly 2M in business
 
+
 **Backcountry.com**
-Customer Service Specialist : Nov. 2013 - Jan. 2015
+Customer Service Specialist : Nov. 2013 - Jan. 2015\\
 Seattle, WA
 
 * Applied exceptional conversational skills and passion for outdoor gear in order to improve the customer’s outdoor experience
@@ -60,40 +61,40 @@ Technical Experience
 
 Programming Languages
 :   
-    * React.js
-    * AngularJS / Angular5
-    * Javascript
-    * Typescript
-    * C#
-    * Node
-    * JSX
-    * .NET
-    * SQL
-    * CSS
-    * HTML5
+    * React.js\\
+    * AngularJS / Angular5\\
+    * Javascript\\
+    * Typescript\\
+    * C#\\
+    * Node\\
+    * JSX\\
+    * .NET\\
+    * SQL\\
+    * CSS\\
+    * HTML5\\
 
 Core Competencies
 :
-    * AJAX
-    * Redux
-    * REST
-    * jQuery
-    * Bootstrap
-    * Unit/Integration Testing
-    * User Experience
-    * Webpack
-    * Firebase
-    * Git/GitHub
+    * AJAX\\
+    * Redux\\
+    * REST\\
+    * jQuery\\
+    * Bootstrap\\
+    * Unit/Integration Testing\\
+    * User Experience\\
+    * Webpack\\
+    * Firebase\\
+    * Git/GitHub\\
 
 Additional Skills
 :   
-    * Client Relations
-    * ArcGIS
-    * Adobe Photoshop
-    * Microsoft Office Suites
+    * Client Relations\\
+    * ArcGIS\\
+    * Adobe Photoshop\\
+    * Microsoft Office Suites\\
 
 Projects
 :
-    [ref]: https://github.com/githubuser/ski-resort-finder
-    [ref]: https://github.com/githubuser/GuitarTabs
-    [ref]: https://github.com/githubuser/Zillow-Rebuild
+    * https://github.com/githubuser/ski-resort-finder\\
+    * https://github.com/githubuser/GuitarTabs\\
+    * https://github.com/githubuser/Zillow-Rebuild\\
