@@ -1,14 +1,15 @@
-David Tumpowsky
+David Tumpowsky\
+####14258 146th Pl. SE
+####Renton, WA 98059
 ============
 
-| ------------- |:-------------:|
-| 14258 146th Pl. SE\Renton, WA 98059 | tumpowskydavid@gmail.com\[github.com/dtumpowsky](https://github.com/dtumpowsky)\435.640.8690|
 
--------------------     ----------------------------
-14258 146th Pl. SE   |      tumpowskydavid@gmail.com
-Renton, WA 98059     |         github.com/dtumpowsky
-                     |                  435.640.8690
--------------------     ----------------------------
+
+------------------- -------------------
+[tumpowskydavid@gmail.com](tumpowskydavid@gmail.com) \
+[github.com/dtumpowsky](github.com/dtumpowsky) \
+435.640.8690  
+------------------- -------------------    
 
 Education
 ---------
@@ -102,6 +103,6 @@ Technical Experience
 
 **Projects**
 
-    ⋅ [Ski Resort Finder](https://github.com/dtumpowsky/ski-resort-finder)
-    ⋅ [GuitarTabs](https://github.com/dtumpowsky/GuitarTabs)
-    ⋅ [Zillow Rebuild](https://github.com/dtumpowsky/Zillow-Rebuild)
+    ⋅ [Ski Resort Finder](https://github.com/githubuser/ski-resort-finder)
+    ⋅ [GuitarTabs](https://github.com/githubuser/GuitarTabs)
+    ⋅ [Zillow Rebuild](https://github.com/githubuser/Zillow-Rebuild)
