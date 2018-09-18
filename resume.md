@@ -10,14 +10,16 @@ Renton, WA 98059               github.com/dtumpowsky
 Education
 ---------
 
+Westminster College - Salt Lake City, UT\
 2010-2015
-Emphasis in environmental sustainability, land management, and policy
-:   **BA, Environmental Humanities**; Westminster College - Salt Lake City, UT
+
+:   **BA, Environmental Humanities**
 
     Emphasis in environmental sustainability, land management, and policy
 
+Epicodus - Seattle, WA
 2018
-:   **Full Stack Development Bootcamp**; Epicodus - Seattle, WA
+:   **Full Stack Development Bootcamp**
 
     C#/JavaScript/Angular/React
 
