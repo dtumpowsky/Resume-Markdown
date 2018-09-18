@@ -105,6 +105,6 @@ Technical Experience
 
 **Projects**
 
-    ⋅ [Ski Resort Finder](https://github.com/githubuser/ski-resort-finder)
-    ⋅ [GuitarTabs](https://github.com/githubuser/GuitarTabs)
-    ⋅ [Zillow Rebuild](https://github.com/githubuser/Zillow-Rebuild)
+  ⋅ [Ski Resort Finder](https://github.com/githubuser/ski-resort-finder)\
+  ⋅ [GuitarTabs](https://github.com/githubuser/GuitarTabs)\
+  ⋅ [Zillow Rebuild](https://github.com/githubuser/Zillow-Rebuild)
