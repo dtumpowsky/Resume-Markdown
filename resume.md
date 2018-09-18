@@ -33,25 +33,25 @@ Seattle, WA
 
     ⋅ Debugged and wrote solutions for problems in legacy code
     ⋅ Worked with front and backend service to fix asynchronous data rendering issue in the client portal
-    ⋅ Formatted client portal to be mobile friendly\
+    ⋅ Formatted client portal to be mobile friendly
 
-
+\
 **Beacon Health Options**
 Research Liaison : June 2016 - March 2018\
 Bellevue, WA
 
     ⋅ Contracted by the US Department of Defense for the ability to provide high quality and empathetic customer service
-    ⋅ Promoted to Server Manager, organizing therapist documentation on the backend, as well as communicating with service members and colleagues on the frontend, to ensure a fast and frictionless customer experience\
+    ⋅ Promoted to Server Manager, organizing therapist documentation on the backend, as well as communicating with service members and colleagues on the frontend, to ensure a fast and frictionless customer experience
 
-
+\
 **Evo**
 Outdoor Technician : Oct. 2015 - April 2016\
 Seattle, WA
 
     ⋅ Thrived in a fast-paced, heavy workload, team oriented environment
-    ⋅ Serviced approximately 75 skis per day, contributing to the most profitable month in Evo’s history, generating roughly 2M in business\
+    ⋅ Serviced approximately 75 skis per day, contributing to the most profitable month in Evo’s history, generating roughly 2M in business
 
-
+\
 **Backcountry.com**
 Customer Service Specialist : Nov. 2013 - Jan. 2015\
 Seattle, WA
