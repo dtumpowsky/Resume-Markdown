@@ -7,7 +7,7 @@ Renton, WA 98059               github.com/dtumpowsky
                                         435.640.8690
 -------------------     ----------------------------
 
-<span style="color:#a3e8ff">Education</span>
+Education
 ---------
 
 2010-2015
@@ -21,7 +21,7 @@ Emphasis in environmental sustainability, land management, and policy
 
     C#/JavaScript/Angular/React
 
-<span style="color:#a3e8ff">Experience</span>
+Experience
 ----------
 
 **Off the Record, Inc**
@@ -56,7 +56,7 @@ Seattle, WA
 * Applied exceptional conversational skills and passion for outdoor gear in order to improve the customer’s outdoor experience
 * Increased outdoor gear knowledge and developed lasting relationships due to a company that values their employees as much as their customers
 
-<span style="color:#a3e8ff">Technical Experience</span>
+Technical Experience
 --------------------
 
 Programming Languages
