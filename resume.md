@@ -34,7 +34,7 @@ Experience
 ----------
 
 **Off the Record, Inc** \
-Web Development Intern : August 2018 - September 2018\
+Front End Engineer - Intern : August 2018 - September 2018\
 Seattle, WA
 
     ⋅ Debugged and wrote solutions for problems in legacy code
@@ -62,7 +62,7 @@ Outdoor Technician : Oct. 2015 - April 2016\
 Seattle, WA
 
     ⋅ Thrived in a fast-paced, heavy workload, team oriented environment
-    
+
     ⋅ Serviced approximately 75 skis per day, contributing to the most profitable month in Evo’s history, generating roughly 2M in business
 
 \
