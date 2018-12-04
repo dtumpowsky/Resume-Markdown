@@ -9,8 +9,7 @@ David Tumpowsky
 Profile
 ---------
 
-    An enthusiastic, self driven, and communicative web developer seeking to connect my for passion for the
-    outdoors and creating beautiful, intuitive applications with a company who shares the same values.
+    An enthusiastic, self driven, and communicative software engineer seeking to connect my passion for discovery with creating beautiful, intuitive applications.
 ------------------- -------------------
 
 Education
@@ -29,26 +28,33 @@ Epicodus - Seattle, WA\
 
    **Full Stack Development Bootcamp**
 
-    C#/JavaScript/Angular/React
+    C#/.NET/JavaScript/Angular/React
 
 Experience
 ----------
 
 **Off the Record, Inc** \
-Web Development Intern : August 2018 - Present\
+Web Development Intern : August 2018 - September 2018\
 Seattle, WA
 
     ⋅ Debugged and wrote solutions for problems in legacy code
-    ⋅ Worked with front and backend service to fix asynchronous data rendering issue in the client portal
-    ⋅ Formatted client portal to be mobile friendly
+
+    ⋅ Utilized AngularJS, Angular-Datatables API, jQuery, CSS, and Bootstrap to implement new features to the client portal and create a more intuitive UI
+
+    ⋅ Worked with a front and backend service to fix AJAX promise data rendering and pagination issues in the client portal
+
+    ⋅ Formatted the client portal for mobile using CSS media queries
 
 \
 **Beacon Health Options** \
 Research Liaison : June 2016 - March 2018\
 Bellevue, WA
 
-    ⋅ Contracted by the US Department of Defense for the ability to provide high quality and empathetic customer service
-    ⋅ Promoted to Server Manager, organizing therapist documentation on the backend, as well as communicating with service members and colleagues on the frontend, to ensure a fast and frictionless customer experience
+    ⋅ Contracted by the US Department of Defense for my ability to provide high quality and empathetic customer service
+
+    ⋅ Promoted to Server Manager within the first year of employment
+
+    ⋅ Organized therapist documentation on the backend, as well as communicated with service members and colleagues on the frontend, to ensure a fast and frictionless customer experience
 
 \
 **Evo** \
@@ -73,8 +79,8 @@ Technical Experience
 
     ⋅ React.js
     ⋅ AngularJS / Angular5
-    ⋅ Javascript
-    ⋅ Typescript
+    ⋅ JavaScript
+    ⋅ TypeScript
     ⋅ C#
     ⋅ Node
     ⋅ JSX
@@ -87,14 +93,14 @@ Technical Experience
 
     ⋅ AJAX
     ⋅ Redux
-    ⋅ REST
+    ⋅ REST API
     ⋅ jQuery
     ⋅ Bootstrap
     ⋅ Unit/Integration Testing
     ⋅ User Experience
     ⋅ Webpack
     ⋅ Firebase
-    ⋅ Git/GitHub
+    ⋅ Git
 
 **Additional Skills**
 
