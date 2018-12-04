@@ -62,6 +62,7 @@ Outdoor Technician : Oct. 2015 - April 2016\
 Seattle, WA
 
     ⋅ Thrived in a fast-paced, heavy workload, team oriented environment
+    
     ⋅ Serviced approximately 75 skis per day, contributing to the most profitable month in Evo’s history, generating roughly 2M in business
 
 \
@@ -70,6 +71,7 @@ Customer Service Specialist : Nov. 2013 - Jan. 2015\
 Seattle, WA
 
     ⋅ Applied exceptional conversational skills and passion for outdoor gear in order to improve the customer’s outdoor experience
+
     ⋅ Increased outdoor gear knowledge and developed lasting relationships due to a company that values their employees as much as their customers
 
 Technical Experience
